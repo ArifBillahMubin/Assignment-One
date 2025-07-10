@@ -188,3 +188,34 @@
         font-size: 12px;
     }
     
+
+    /* Ready to focus better (extra) */
+
+    .extra{
+        background-color: #F2EDED;
+    }
+
+    .extra-container{
+        text-align: center;
+    }
+
+    .extra-title{
+        font-weight: bold;
+        font-size: 50px;
+        color: #000000;
+        padding-top: 71px;
+    }
+
+    .extra-subtitle{
+        color: rgba(0, 0, 0, 0.5);
+        font-size: 16px;
+        margin: 10px 0px;
+    }
+
+    .extra-container img{
+        margin: 20px 150px 71px 150px;
+        border-radius: 30px;  
+    }
+
+   
+
