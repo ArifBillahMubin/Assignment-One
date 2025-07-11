@@ -201,6 +201,7 @@
     .extra{
         background-color: #F2EDED;
         border-radius: 20px;
+        height: 700px;
     }
 
     .extra-container{
@@ -221,7 +222,9 @@
     }
 
     .extra-container img{
-        margin: 20px 150px 71px 150px;
+        display: block;
+        margin: 20px auto 71px auto;
+        max-width: 90%;
         border-radius: 30px;  
     }
 
@@ -268,7 +271,7 @@
     }
 
     .get-touch button{
-        width: 610px;
+        width: 100%;
     }
 
     /* Let’s Get In Touch Section End*/
