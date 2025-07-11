@@ -253,7 +253,7 @@
     
     .get-touch input[type="email"] , .get-touch input[type="text"], .get-touch textarea{
         display: flex;
-        width: 100%;
+        width: 95.5%;
         height: 50px;
         border-radius: 5px;
         padding-top: 10px;
@@ -280,6 +280,7 @@
     footer{
         background-color: #F2EDED;
         text-align: center;
+        margin-top: 70px;
 
     }
     .footer-title{
